@@ -1,7 +1,7 @@
 # Order Extension
 
-''''
-'''
+````
+```
 extension NumberOrders<T extends int> on T {
 
   String setOrder() {
@@ -24,5 +24,6 @@ extension NumberOrders<T extends int> on T {
   }
 }
 
-'''
-''''
+
+```
+````
